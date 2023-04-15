@@ -149,8 +149,8 @@ const testimonials = [
     testimonial:
       "Rituraj Kadamati is amazing at his job! He knows his way around people, he is good with the clients, does whatever it takes to help colleagues and gets things done. I have worked with Rituraj in the same team for about an year at HPE. he is great colleague with expertise in Python Development and Analytical skills. his problem solving skills are amazing and helped to automate many repetitive tasks. i would highly recommend Rituraj for Python Software development.Rituraj Kadamati is a great professional!",
     name: "Naveen Kumar",
-    designation: "Oracle",
-    company: "Application Developer",
+    designation: "Application Developer",
+    company: "Oracle",
     image: "https://i.ibb.co/DDj8hVV/blank.png",
   },
 ];
