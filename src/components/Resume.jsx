@@ -33,7 +33,7 @@ export default function Resume() {
           }}
           onClick={() =>
             window.open(
-              "https://drive.google.com/file/d/1HsjgtTi66Pz2LBW_e3yd2PEWpv9AKiBp/view?usp=share_link",
+              "https://drive.google.com/file/d/1HsjgtTi66Pz2LBW_e3yd2PEWpv9AKiBp/view?usp=sharing",
               "_blank"
             )
           }
