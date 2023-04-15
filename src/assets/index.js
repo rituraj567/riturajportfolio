@@ -20,15 +20,22 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import angular from "./tech/angular.png"
+import hpe from "./company/hpe.png"
+import foodhub from "./company/foodhub.png"
+import gspann from "./company/gspann.jpg"
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import java from "./tech/java.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import tripguide from "./tripguide.png"
+import webproject from "./webproject.png"
+import cloud from "./cloud.png"
+import asdc from "./asdc.png"
+
 
 export {
   logo,
@@ -59,4 +66,12 @@ export {
   carrent,
   jobit,
   tripguide,
+  java,
+  angular,
+  hpe,
+  foodhub,
+  gspann,
+  cloud,
+  webproject,
+  asdc
 };

@@ -16,7 +16,9 @@ const Contact = () => {
   });
 
   const [loading, setLoading] = useState(false);
-
+//template_i72kipa
+//service_wwyofv9
+//tPdBJbqykZSKBg-vL
   const handleChange = (e) => {
     const { target } = e;
     const { name, value } = target;
@@ -33,16 +35,16 @@ const Contact = () => {
 
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        "service_wwyofv9",
+        "template_i72kipa",
         {
           from_name: form.name,
-          to_name: "JavaScript Mastery",
+          to_name: "Rituraj Kadamati",
           from_email: form.email,
-          to_email: "sujata@jsmastery.pro",
+          to_email: "rituraj.kadamati@dal.ca",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        "tPdBJbqykZSKBg-vL"
       )
       .then(
         () => {
